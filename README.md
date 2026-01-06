@@ -1,2 +1,7 @@
 # AI_fork_test
-version 1.1
+
+This is the real official update
+
+you should have this
+
+any other version is inferior
